@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">CS394</string>
+
+    <string name="defendPopPunk">DEFEND POP PUNK!</string>
+
+    <string-array name="album_names">
+
+
+        <item>Hey</item>
+        <item>Boyver Diyomkan Usta</item>
+        <item>F GALILEO</item>
+        <item>İstanbulda</item>
+        <item>Aklımda Bi Kördüğüm</item>
+        <item>Kukla</item>
+        <item>Kül Olana Kadar</item>
+        <item>biz niye lanetlendik böyle</item>
+        <item>Mutsuzum işte</item>
+        <item>Zombiler</item>
+
+
+    </string-array>
+
+    <string-array name="songFeatures">
+        <item>by Second \nPublish Year: 2020 \nTime: 2.52 min. \nStreams: 7.933.389  \nCover Art: Can Dağlı </item>
+        <item>by Second \nPublish Year: 2020 \nTime: 4.00 min. \nStreams: 1.004.658 \nCover Art: MRE </item>
+        <item>by Second \nPublish Year: 2019 \nTime: 2.58 min. \nStreams: 480.925 \nCover Art: Efe Karadağlı </item>
+        <item>by Second \nPublish Year: 2014 \nTime: 2.14 min. \nStreams: 4.853.583 \nCover Art: ekin0ks </item>
+        <item>by Second \nPublish Year: 2012 \nTime: 3.06 min  \nStreams: 233.668 \nCover Art: Samet Çiçek </item>
+        <item>by Second \nPublish Year: 2002 \nTime: 2.15 min  \nStreams: 898.147 \nCover Art: Özgün Semerci </item>
+        <item>by Second \nPublish Year: 2013 \nTime: 3.12 min. \nStreams: 1.138.470 \nCover Art: Efe Karadağlı </item>
+        <item>by Second \nPublish Year: 2024 \nTime: 3.26 min. \nStreams: 19.590 (NEW!) \nCover Art: Ali Can Salt </item>
+        <item>by Second \nPublish Year: 2023 \nTime: 3.38 min. \nStreams:  339.706 \nCover Art: Parham A.G. </item>
+        <item>by Second \nPublish Year: 2022 \nTime: 2.44 min. \nStreams:  357.401 \nCover Art: Kerem Brumend</item>
+    </string-array>
+</resources>
